@@ -1,17 +1,17 @@
 # Проект 3. Booking reviews
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/John-Trivolta/PROJ_3_EDA/master/project-3-eda/README.md#Описание-проекта)
-* [2. Какой кейс решаем?](https://github.com/John-Trivolta/PROJ_3_EDA/master/project-3-eda/README.md#Какой-кейс-решаем?)
-* [3. Краткая информация о данных](https://github.com/John-Trivolta/PROJ_3_EDA/master/project-3-eda/README.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/John-Trivolta/PROJ_3_EDA/master/project-3-eda/README.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/John-Trivolta/PROJ_3_EDA/master/project-3-eda/README.md#Результат)
+* [1. Описание проекта](https://github.com/John-Trivolta/PROJ_3_EDA/blob/master/project-3-eda/README.md#Описание-проекта)
+* [2. Какой кейс решаем?](https://github.com/John-Trivolta/PROJ_3_EDA/blob/master/project-3-eda/README.md#Какой-кейс-решаем?)
+* [3. Краткая информация о данных](https://github.com/John-Trivolta/PROJ_3_EDA/blob/master/project-3-eda/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/John-Trivolta/PROJ_3_EDA/blob/master/project-3-eda/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/John-Trivolta/PROJ_3_EDA/blob/master/project-3-eda/README.md#Результат)
 
 
 ### Описание проекта
 Построение модели которая предсказывает рейтинг отеля.
 
-:arrow_up:[к оглавлению](https://github.com/John-Trivolta/PROJ_3_EDA/master/project-3-eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/John-Trivolta/PROJ_3_EDA/blob/master/project-3-eda/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Представьте, что вы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить. Поставлена задача создать такую модель.
@@ -32,4 +32,4 @@
 
 ....
 
-:arrow_up:[к оглавлению](https://github.com/John-Trivolta/PROJ_3_EDA/master/project-3-eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/John-Trivolta/PROJ_3_EDA/blob/master/project-3-eda/README.md#Оглавление)
